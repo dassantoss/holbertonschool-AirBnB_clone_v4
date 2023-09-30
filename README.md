@@ -159,6 +159,11 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
+## Updated by
+[![Updated by Santiago Echeverri](https://img.shields.io/badge/Updated%20by-Santiago%20Echeverri-blue.svg)](https://github.com/dassantoss)
+[![Python >=3.6](https://img.shields.io/badge/python-%3E%3D3.6-blue.svg)](https://www.python.org)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
