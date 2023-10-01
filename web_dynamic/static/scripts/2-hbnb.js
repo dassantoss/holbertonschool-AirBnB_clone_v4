@@ -16,7 +16,7 @@ $(document).ready(function () {
     //console.log(data);
     if (data.status === 'OK') {
       $('#api_status').addClass('available');
-      console.log('hola');
+      //console.log('hola');
     } else {
       $('#api_status').removeClass('available');
     }
