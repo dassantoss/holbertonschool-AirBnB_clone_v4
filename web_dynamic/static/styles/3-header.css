@@ -13,11 +13,11 @@ header .logo {
     background-color: #cccccc;
     width: 40px;
     height: 40px;
-    position: absolute;
     right: 30px;
-    top: 50%;
+    top: 7%;
     transform: translateY(-50%);
     border-radius: 50%;
+    position: absolute;
 }
 .available {
     background-color: #ff545f;
