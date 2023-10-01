@@ -102,6 +102,9 @@ button:hover {
     visibility: visible;
 }
 
-.checkbox-amenities {
-    margin-left: 10px;
+.checkbox-amenities,
+.checkbox-city,
+.checkbox-state {
+  margin-left: 10px;
 }
+
